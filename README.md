@@ -3,7 +3,7 @@
 
 
 # Axios
-[Catch Network Error ](https://github.com/vwedesam/Useful-Js-Node.js-Tips-Script/blob/6main/Axios/Catch Network Error.md)
+[Catch Network Error ](https://github.com/vwedesam/Useful-Js-Node.js-Tips-Script/blob/main/Axios/Catch%20Network%20Error.md)
 
 
 
