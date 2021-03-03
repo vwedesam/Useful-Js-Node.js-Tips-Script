@@ -1,15 +1,12 @@
 # Useful-Js-Node.js-Tips-Script
+### this repo - contains some useful (not easily noticable) JS Tips, Script and Code Samples 
 
 
-### #Catch Axios Network Error 
-``` Js
-  axios.request(options)
-  .then(res=> consol.log(res )
-  .catch(error => {
-      if(!error.status){
-          // catch Network Error
-          //
-          }
-    })
+# Axios
+[Catch Network Error ](https://github.com/vwedesam/Useful-Js-Node.js-Tips-Script/blob/6main/Axios/Catch Network Error.md)
 
-```
+
+
+# Vue.js
+[dynamic href in html](https://github.com/vwedesam/Useful-Js-Node.js-Tips-Script/blob/main/Vue/dynamic%20href%20in%20html.md)
+
