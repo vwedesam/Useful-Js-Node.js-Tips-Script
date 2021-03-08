@@ -1,15 +1,15 @@
 # Useful-Js-Node.js-Tips-Script
 ### this repo - contains some useful (not easily noticable) JS Tips, Script and Code Samples 
 
-# Js Array
+## Array
 
 [Make Arrays of different Length equal in Length](https://github.com/vwedesam/Useful-Js-Node.js-Tips-Script/blob/main/Js/make%20Arrays%20of%20different%20Length%20equal%20in%20Length.md)
 
-# Axios
+## Axios
 [Catch Network Error ](https://github.com/vwedesam/Useful-Js-Node.js-Tips-Script/blob/main/Axios/Catch%20Network%20Error.md)
 
 
 
-# Vue.js
+## Vue.js
 [dynamic href in html](https://github.com/vwedesam/Useful-Js-Node.js-Tips-Script/blob/main/Vue/dynamic%20href%20in%20html.md)
 
