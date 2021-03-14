@@ -15,3 +15,13 @@
 ## React
 * [Create Global Components](https://github.com/vwedesam/Useful-Js-Node.js-Tips-Script/blob/main/React/Register,%20Create%20and%20Use%20a%20Global%20Components.md)
 
+
+
+
+
+> 
+### this project is open to contributions
+
+
+### License
+ by the [Lamb of God](https://en.wikipedia.org/wiki/Lamb_of_God)
